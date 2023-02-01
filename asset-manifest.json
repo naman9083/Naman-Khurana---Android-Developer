@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Naman-Khurana-Android-Developer/static/css/main.7e51ba3f.css",
-    "main.js": "/Naman-Khurana-Android-Developer/static/js/main.b9c49b7f.js",
+    "main.js": "/Naman-Khurana-Android-Developer/static/js/main.6569426a.js",
     "static/js/787.1d041f33.chunk.js": "/Naman-Khurana-Android-Developer/static/js/787.1d041f33.chunk.js",
     "static/media/site2.png": "/Naman-Khurana-Android-Developer/static/media/site2.82d62fa1cae0d1126ba1.png",
     "static/media/site1.png": "/Naman-Khurana-Android-Developer/static/media/site1.1737716f7706bee48bbc.png",
@@ -17,11 +17,11 @@
     "static/media/moon.png": "/Naman-Khurana-Android-Developer/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/Naman-Khurana-Android-Developer/index.html",
     "main.7e51ba3f.css.map": "/Naman-Khurana-Android-Developer/static/css/main.7e51ba3f.css.map",
-    "main.b9c49b7f.js.map": "/Naman-Khurana-Android-Developer/static/js/main.b9c49b7f.js.map",
+    "main.6569426a.js.map": "/Naman-Khurana-Android-Developer/static/js/main.6569426a.js.map",
     "787.1d041f33.chunk.js.map": "/Naman-Khurana-Android-Developer/static/js/787.1d041f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e51ba3f.css",
-    "static/js/main.b9c49b7f.js"
+    "static/js/main.6569426a.js"
   ]
 }
