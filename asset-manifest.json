@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/naman9083-dev/static/css/main.7e51ba3f.css",
+    "main.css": "/naman9083-dev/static/css/main.3c04ccf8.css",
     "main.js": "/naman9083-dev/static/js/main.c5f8fc90.js",
     "static/js/787.1d041f33.chunk.js": "/naman9083-dev/static/js/787.1d041f33.chunk.js",
     "static/media/site2.png": "/naman9083-dev/static/media/site2.82d62fa1cae0d1126ba1.png",
@@ -16,12 +16,12 @@
     "static/media/phone.png": "/naman9083-dev/static/media/phone.d90a6d23cf5129d853bb.png",
     "static/media/moon.png": "/naman9083-dev/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/naman9083-dev/index.html",
-    "main.7e51ba3f.css.map": "/naman9083-dev/static/css/main.7e51ba3f.css.map",
+    "main.3c04ccf8.css.map": "/naman9083-dev/static/css/main.3c04ccf8.css.map",
     "main.c5f8fc90.js.map": "/naman9083-dev/static/js/main.c5f8fc90.js.map",
     "787.1d041f33.chunk.js.map": "/naman9083-dev/static/js/787.1d041f33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e51ba3f.css",
+    "static/css/main.3c04ccf8.css",
     "static/js/main.c5f8fc90.js"
   ]
 }
