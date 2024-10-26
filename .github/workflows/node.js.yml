@@ -26,12 +26,10 @@ jobs:
         run: npm ci
 
       - name: Deploy to Gh-pages
-        run: npm deploy
-        with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          publish_branch: gh-pages
-          cname: ${{ secrets.CNAME }}
+        # setup credentials
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: npm run deploy
           
         
         
