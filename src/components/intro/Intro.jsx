@@ -1,37 +1,42 @@
-import React, { useContext } from 'react'
-import './intro.css'
-import me from '../../images/nkpic.png'
-import { ThemeContext } from '../../context'
+import React, { useContext } from "react";
+import "./intro.css";
+import me from "../../images/nkpic.png";
+import { ThemeContext } from "../../context";
 const Intro = () => {
   const theme = useContext(ThemeContext);
   const darkMode = theme.state.darkMode;
   return (
-    <div className='i'>
+    <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className='i-intro'>Hello, My Name is</h2>
-          <h1 className='i-name'>Naman Khurana</h1>
+          <h2 className="i-intro">Hello, My Name is</h2>
+          <h1 className="i-name">Naman Khurana</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Android Developer</div>
               <div className="i-title-item">Programmer</div>
               <div className="i-title-item">Photographer</div>
               <div className="i-title-item">Writer</div>
-              <div className="i-title-item">Content Creator</div>
+              <div className="i-title-item">Devops Engineer</div>
             </div>
           </div>
-          <p className="i-description" style={{textShadow: darkMode && '1px 1px 1px white'}}>I'm a third year CS student with a focus on production of software, web
-          apps and android apps. I'm hardworking, diligent, and dedicated—all qualities
-          I put forward in everything I do. Coding has become a perfect union of my two favourite passions
-and I love seeing the results of my efforts helping the user's experience.
-I'm finding unique solutions to complex problems and I'm doing it all
-while making the worst puns you've never heard before.</p>
-          
+          <p
+            className="i-description"
+            style={{ textShadow: darkMode && "1px 1px 1px white" }}
+          >
+            I'm a third year CS student with a focus on production of software,
+            web apps and android apps. I'm hardworking, diligent, and
+            dedicated—all qualities I put forward in everything I do. Coding has
+            become a perfect union of my two favourite passions and I love
+            seeing the results of my efforts helping the user's experience. I'm
+            finding unique solutions to complex problems and I'm doing it all
+            while making the worst puns you've never heard before.
+          </p>
         </div>
         <svg
           width="75"
           height="75"
-          className='i-scroll'
+          className="i-scroll"
           viewBox="0 0 75 75"
           fill="none"
           stroke="red"
@@ -87,10 +92,10 @@ while making the worst puns you've never heard before.</p>
       </div>
       <div className="i-right">
         <div className="i-bg"></div>
-        <img src={me} className="i-img"alt="" />
+        <img src={me} className="i-img" alt="" />
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default Intro;
