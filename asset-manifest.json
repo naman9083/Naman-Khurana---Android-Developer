@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Naman-Khurana-Android-Developer/static/css/main.7e51ba3f.css",
-    "main.js": "/Naman-Khurana-Android-Developer/static/js/main.eae413b3.js",
-    "static/js/787.1d041f33.chunk.js": "/Naman-Khurana-Android-Developer/static/js/787.1d041f33.chunk.js",
-    "static/media/img4.png": "/Naman-Khurana-Android-Developer/static/media/img4.c4f5ad5fcc74becbab94.png",
-    "static/media/site2.png": "/Naman-Khurana-Android-Developer/static/media/site2.82d62fa1cae0d1126ba1.png",
-    "static/media/site1.png": "/Naman-Khurana-Android-Developer/static/media/site1.1737716f7706bee48bbc.png",
-    "static/media/site4.png": "/Naman-Khurana-Android-Developer/static/media/site4.52878171a88dee072ae8.png",
-    "static/media/site3.png": "/Naman-Khurana-Android-Developer/static/media/site3.9fda9df6aa10d4829251.png",
-    "static/media/nkpic.png": "/Naman-Khurana-Android-Developer/static/media/nkpic.7db5dbf83f82314cf27e.png",
-    "static/media/award.png": "/Naman-Khurana-Android-Developer/static/media/award.a796a64fbb78cc3a9666.png",
-    "static/media/address.png": "/Naman-Khurana-Android-Developer/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/Naman-Khurana-Android-Developer/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/Naman-Khurana-Android-Developer/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/phone.png": "/Naman-Khurana-Android-Developer/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/Naman-Khurana-Android-Developer/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/Naman-Khurana-Android-Developer/index.html",
-    "main.7e51ba3f.css.map": "/Naman-Khurana-Android-Developer/static/css/main.7e51ba3f.css.map",
-    "main.eae413b3.js.map": "/Naman-Khurana-Android-Developer/static/js/main.eae413b3.js.map",
-    "787.1d041f33.chunk.js.map": "/Naman-Khurana-Android-Developer/static/js/787.1d041f33.chunk.js.map"
+    "main.css": "/naman9083-dev/static/css/main.7e51ba3f.css",
+    "main.js": "/naman9083-dev/static/js/main.36b7dec0.js",
+    "static/js/787.1d041f33.chunk.js": "/naman9083-dev/static/js/787.1d041f33.chunk.js",
+    "static/media/img4.png": "/naman9083-dev/static/media/img4.c4f5ad5fcc74becbab94.png",
+    "static/media/site2.png": "/naman9083-dev/static/media/site2.82d62fa1cae0d1126ba1.png",
+    "static/media/site1.png": "/naman9083-dev/static/media/site1.1737716f7706bee48bbc.png",
+    "static/media/site4.png": "/naman9083-dev/static/media/site4.52878171a88dee072ae8.png",
+    "static/media/site3.png": "/naman9083-dev/static/media/site3.9fda9df6aa10d4829251.png",
+    "static/media/nkpic.png": "/naman9083-dev/static/media/nkpic.7db5dbf83f82314cf27e.png",
+    "static/media/award.png": "/naman9083-dev/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/naman9083-dev/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/naman9083-dev/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/naman9083-dev/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/naman9083-dev/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/naman9083-dev/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/naman9083-dev/index.html",
+    "main.7e51ba3f.css.map": "/naman9083-dev/static/css/main.7e51ba3f.css.map",
+    "main.36b7dec0.js.map": "/naman9083-dev/static/js/main.36b7dec0.js.map",
+    "787.1d041f33.chunk.js.map": "/naman9083-dev/static/js/787.1d041f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e51ba3f.css",
-    "static/js/main.eae413b3.js"
+    "static/js/main.36b7dec0.js"
   ]
 }
