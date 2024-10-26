@@ -21,10 +21,14 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
+
+      - name: Build the app
+        run: npm run build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the provided token
+        run: |
+          npm install --save gh-pages  # Install gh-pages if not already installed
+          npm run deploy  # Run the deploy script
