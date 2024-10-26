@@ -27,7 +27,14 @@ jobs:
 
       - name: Build project
         run: npm run build --if-present
-        
-      - name: Deploy to GitHub Pages
-        run: npm run deploy
+      
+      - name: Deploy to Gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          publish_branch: gh-pages
+          cname: ${{ secrets.CNAME }}
           
+        
+        
