@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/naman9083-dev/static/css/main.7e51ba3f.css",
-    "main.js": "/naman9083-dev/static/js/main.43fe6384.js",
+    "main.js": "/naman9083-dev/static/js/main.4d4be2ab.js",
     "static/js/787.1d041f33.chunk.js": "/naman9083-dev/static/js/787.1d041f33.chunk.js",
     "static/media/img4.png": "/naman9083-dev/static/media/img4.c4f5ad5fcc74becbab94.png",
     "static/media/site2.png": "/naman9083-dev/static/media/site2.82d62fa1cae0d1126ba1.png",
@@ -17,11 +17,11 @@
     "static/media/moon.png": "/naman9083-dev/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/naman9083-dev/index.html",
     "main.7e51ba3f.css.map": "/naman9083-dev/static/css/main.7e51ba3f.css.map",
-    "main.43fe6384.js.map": "/naman9083-dev/static/js/main.43fe6384.js.map",
+    "main.4d4be2ab.js.map": "/naman9083-dev/static/js/main.4d4be2ab.js.map",
     "787.1d041f33.chunk.js.map": "/naman9083-dev/static/js/787.1d041f33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e51ba3f.css",
-    "static/js/main.43fe6384.js"
+    "static/js/main.4d4be2ab.js"
   ]
 }
