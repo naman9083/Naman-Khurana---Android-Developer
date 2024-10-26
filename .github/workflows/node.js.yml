@@ -21,8 +21,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Git config"
-        run: /
+      - name: Git config
+        run: |
           git config  user.email "namankhurana9083@gmail.com"
           git config  user.name "naman9083"
 
